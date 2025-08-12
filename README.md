@@ -4,6 +4,11 @@ Kolla in design för hur projektet ska se ut:
 [Ljus-Tema](./design/Desktop-light.png)
 [Mörkt-Tema](./design/Desktop-dark.png)
 
+<img width="1781" height="1121" alt="image" src="https://github.com/user-attachments/assets/90463909-1269-4b20-8e5a-bdfeeec7ae70" />
+
+
+
+
 ## Utmaningen
 
 Din utmaning är att integrera med [REST-ländernas API](https://restcountries.com)för att hämta landsdata och visa dem som i designerna.
